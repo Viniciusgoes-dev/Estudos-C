@@ -15,11 +15,7 @@ main()
 	  \n line break
 	  */
 	  
-	  int number = 2;
-	  
-	  number--;
-	  
-	  printf("\n result is: %d\n\n", number);
+	
 	  
 	  
 
